@@ -65,4 +65,4 @@ See the LICENSE file for full terms.
 APHP. Sorbonne Universités, Pitié-Salpétrière  
 
 Email: jerome.denis@aphp.fr  
-GitHub: https://github.com/jeromedenispharma-co
+GitHub: https://github.com/jeromedenispharma-coder
